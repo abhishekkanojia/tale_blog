@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "About"
-author: "Chester"
-permalink: /about/
+author: "PitcherBox Team"
+permalink: /about
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+Welcome to [PitcherBox](https://pitcherbox.com), the platform designed to bridge the gap between influencers and event organizers, making impactful collaborations easier than ever. At PitcherBox, we help brands and creators connect seamlessly, offering a reliable space for discovering the right voices to amplify your event and message.
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
+With our tailored approach, event organizers gain access to an extensive network of influencers across various niches. Our platform is streamlined for ease, offering detailed influencer profiles, seamless messaging, and personalized search options to simplify the connection process. Whether you're organizing a corporate event, a launch, or a cultural gathering, PitcherBox empowers you to find the perfect match to resonate with your audience.
 
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
+At PitcherBox, our mission is to curate, connect, and collaborate – building genuine partnerships that bring your event's vision to life. By focusing on quality connections and an intuitive experience, we aim to redefine influencer marketing for event organizers and influencers alike.
 
-Thanks for reading!
+Join us at [PitcherBox](https://pitcherbox.com), where every connection counts.
+
