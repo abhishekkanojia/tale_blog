@@ -1,7 +1,7 @@
 # Site settings
 title:          PitcherBox | Blog
-description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "PitcherBox is the ultimate platform connecting influencers and event organizers. Discover, connect, and collaborate with top influencers to amplify your events and campaigns. Sign up today and elevate your brand with meaningful partnerships!"
+description:    "PitcherBox is the ultimate platform connecting influencers and event organizers. Discover, connect, and collaborate with top influencers to amplify your events and campaigns. Sign up today and elevate your brand with meaningful partnerships!"
+baseurl:        ""
 url:            "https://blog.pitcherbox.com"
 
 # Google Analytics

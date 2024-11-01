@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Introducing PitcherBox"
+description: "Learn about PitcherBox, a new platform bridging influencers and event organizers for seamless collaborations."
 author: "Pitcherbox Team"
 comments: false
 tags: intro
