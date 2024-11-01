@@ -1,33 +1,23 @@
 ---
 layout: post
-title:  "Introducing Tale"
-author: "Chester"
-comments: true
-tags: Tale
+title:  "Introducing PitcherBox"
+author: "Pitcherbox Team"
+comments: false
+tags: intro
 excerpt_separator: <!--more-->
 sticky: true
 hidden: true
 ---
 
-Tale is a minimal [Jekyll](https://jekyllrb.com/) theme curated for storytellers. It is designed and developed by [myself](https://github.com/chesterhow/) for a friend who writes short stories.<!--more-->
+Welcome to [PitcherBox](https://pitcherbox.com), where we’re transforming how influencers and event organizers collaborate. <!--more--> Whether you're a brand looking to amplify your event or a creator ready to make an impact, PitcherBox offers a streamlined platform to make these connections easy, effective, and valuable.
 
-## Tale features
-- Compatible with GitHub Pages
-- Responsive design (looks just as good on mobile)
-- Syntax highlighting, with the help of Pygments
-- Markdown and HTML text formatting
-- Pagination of posts
-- Sticky posts
-- Tags
-- Excerpt management
-- Disqus comments
+## Why PitcherBox?
+In today’s world, authentic connections drive success. PitcherBox helps brands find the perfect voices to represent them at events, product launches, or campaigns. Event organizers can search through diverse influencer profiles, explore their engagement metrics, and connect instantly—all in one place. We focus on building genuine partnerships that resonate with audiences and create memorable experiences.
 
-Head over to the [Example Content]({{ site.baseurl }}/2017-03-16/example-content) post for a showcase of Tale's text formatting features.
+## How It Works
+PitcherBox is designed to be simple yet powerful. After signing up, event organizers gain access to a network of influencers, each showcasing their niche, style, and audience. With our intuitive messaging system, it's easy to discuss collaborations, negotiate terms, and finalize arrangements—all from within the platform.
 
-## Browser Support
-Tale works on most if not all modern browsers, including Chrome, Safari and Firefox 👍🏼
+## Join the PitcherBox Community
+Whether you're a brand ready to launch your next event or an influencer looking to partner with top names, PitcherBox is here to support your journey. Let’s work together to curate, connect, and collaborate on experiences that matter.
 
-## Download or Contribute
-Tale is publicly hosted on GitHub, so go ahead and download or fork it at the [GitHub repository](https://github.com/chesterhow/tale). If you spot any bugs or have any suggestions, feel free to create an issue or make a pull request.
-
-Thanks for checking out Tale!
+Get started with [PitcherBox](https://pitcherbox.com) today and discover how meaningful connections can elevate your brand!

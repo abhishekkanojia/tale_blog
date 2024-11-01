@@ -1,7 +1,7 @@
 # Site settings
 title:          PitcherBox | Blog
 description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/"
+baseurl:        ""
 url:            "https://blog.pitcherbox.com"
 
 # Google Analytics
