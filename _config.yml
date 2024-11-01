@@ -1,5 +1,5 @@
 # Site settings
-title:          PitcherBox Blog
+title:          PitcherBox | Blog
 description:    "Minimal Jekyll theme for storytellers"
 baseurl:        "/"
 url:            "https://blog.pitcherbox.com"
@@ -9,7 +9,7 @@ google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Aby
+  name:         PitcherBox
 
 # Build settings
 markdown:       kramdown
