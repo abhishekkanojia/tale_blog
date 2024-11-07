@@ -4,6 +4,7 @@ title:  "How Influencers Can Grow Their Brand by Partnering with Event Organizer
 description: "Discover how influencers can grow their brand by partnering with event organizers. Learn how event collaborations boost visibility, credibility, and income for influencers."
 author: "Pitcherbox Team"
 comments: false
+keywords: Influencer brand growth, event partnerships for influencers, grow influencer brand with events
 tags: intro
 excerpt_separator: <!--more-->
 ---
