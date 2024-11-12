@@ -4,6 +4,7 @@ title:  "How to Increase Your Instagram Followers and Build Connections with Bra
 description: "Discover simple and effective tips to boost your Instagram followers and build a thriving influencer presence. Perfect for influencers aiming to connect with brands and grow their audience."
 author: "Pitcherbox Team"
 comments: false
+image: '/assets/posts/instagram-followers-increase.webp'
 keywords: Increase followers for influencers, Instagram profile optimization, Boost Instagram engagement, Instagram tips for creators, Brand partnerships for influencers
 tags: instagram growth-tips brand-partnering
 excerpt_separator: <!--more-->
