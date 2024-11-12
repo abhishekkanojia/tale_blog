@@ -35,3 +35,8 @@ paginate:       5
 # Excludes
 exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: "/assets/pitcherbox-logo.png"
