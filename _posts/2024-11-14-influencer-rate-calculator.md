@@ -4,7 +4,7 @@ title:  "How to Calculate Your Influencer Rate with PitcherBox's Influencer Rate
 description: "Wondering what to charge as an influencer? Use PitcherBox's free Influencer Rate Calculator to get a personalized estimate based on platform, engagement, and followers. Perfect for social media influencers on Instagram, TikTok, and YouTube."
 author: "Pitcherbox Team"
 comments: false
-image: '/assets/posts/instagram-followers-increase.webp'
+image: '/assets/posts/influencer-rate-calculator.jpg'
 keywords: Influencer Rate Calculator, Influencer Pricing Tool, Social Medial Influencer Rate, Instagram Rate Calculator, TikTok influencer rates, YouTube influencer earnings, Calculate influencer fees
 tags: growth-tips brand-partnering rate-calculator
 excerpt_separator: <!--more-->
