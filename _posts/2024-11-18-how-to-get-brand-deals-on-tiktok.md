@@ -14,7 +14,7 @@ TikTok has become a powerful platform for influencers to connect with brands and
 
 ### Build Your Personal Brand
 
-Focus on creating consistent, high-quality content in a specific niche. Whether it’s fashion, fitness, or comedy, brands look for creators who have a defined identity and loyal followers.
+Focus on creating consistent, high-quality content in a specific niche. Whether it's fashion, fitness, or comedy, brands look for creators who have a defined identity and loyal followers.
 
 ### Engage With Your Audience
 
@@ -26,7 +26,7 @@ Use tools like TikTok Pro Analytics to track your metrics. Highlight your reach,
 
 ### Collaborate With Other Creators
 
-Networking with fellow influencers can increase your visibility. Participating in challenges and duets can make your content more shareable, catching brands’ attention.
+Networking with fellow influencers can increase your visibility. Participating in challenges and duets can make your content more shareable, catching brands' attention.
 
 ### Join TikTok Creator Marketplace
 
@@ -39,4 +39,4 @@ Research brands that align with your niche and values. Send them a personalized 
 By following these steps, you can position yourself as an attractive partner for brands. Stay consistent, authentic, and strategic, and the deals will come your way!
 
 
-At [PitcherBox](https://pitcherbox.com), we’ve also created a free [Influencer Rate Calculator](https://pitcherbox.com/tools/influencer-rate-calculator) to help you determine your worth and confidently pitch to brands. Calculate your rates now and ensure you’re getting the best deals for your TikTok collaborations!
+At [PitcherBox](https://pitcherbox.com), we've also created a free [Influencer Rate Calculator](https://pitcherbox.com/tools/influencer-rate-calculator) to help you determine your worth and confidently pitch to brands. Calculate your rates now and ensure you're getting the best deals for your TikTok collaborations!
