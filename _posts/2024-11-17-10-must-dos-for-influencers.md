@@ -57,3 +57,5 @@ Work with brands that align with your values and audience. Authentic partnership
 The key to being a successful influencer is authenticity, consistency, and adaptability. Focus on building a loyal community, and the growth will follow.
 
 Pro Tip: Platforms like [PitcherBox](https://pitcherbox.com/influencers) can connect you with brands and organizers, helping you scale your influence.
+
+{% include rate_calculator_plug.html %}

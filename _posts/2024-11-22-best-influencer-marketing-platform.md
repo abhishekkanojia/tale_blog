@@ -30,3 +30,5 @@ Experience how PitcherBox revolutionizes influencer marketing by making connecti
 **[Sign up today](https://pitcherbox.com/influencers/sign_up) and transform the way you market!**
 
 ---
+
+{% include rate_calculator_plug.html %}
