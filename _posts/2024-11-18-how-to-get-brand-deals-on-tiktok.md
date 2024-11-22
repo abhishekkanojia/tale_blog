@@ -40,3 +40,5 @@ By following these steps, you can position yourself as an attractive partner for
 
 
 At [PitcherBox](https://pitcherbox.com), we've also created a free [Influencer Rate Calculator](https://pitcherbox.com/tools/influencer-rate-calculator) to help you determine your worth and confidently pitch to brands. Calculate your rates now and ensure you're getting the best deals for your TikTok collaborations!
+
+{% include rate_calculator_plug.html %}
