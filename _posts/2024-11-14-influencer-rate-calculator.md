@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How much should you charge as an influencer? Try Our Free Rate Calculator"
+title:  "How much should you charge for instagram post? Try Our Free Rate Calculator"
 description: "Wondering what to charge as an influencer? Use PitcherBox's free Influencer Rate Calculator to get a personalized estimate based on platform, engagement, and followers. Perfect for social media influencers on Instagram, TikTok, and YouTube."
 author: "Pitcherbox Team"
 comments: false
@@ -10,7 +10,7 @@ tags: rate-calculator
 excerpt_separator: <!--more-->
 ---
 
-As the influencer industry grows, understanding your value as a social media influencer is essential. Whether you’re on Instagram, TikTok, or YouTube, determining the right price for your content can be challenging. That’s where PitcherBox’s Instagram Rate Calculator comes in. <!--more--> This free, easy-to-use tool provides influencers with a personalized rate estimate, helping you set competitive and realistic pricing based on your platform, engagement rate, and follower count.
+As the influencer industry grows, understanding your value as a social media influencer is essential. Whether you’re on Instagram, TikTok, or YouTube, determining the right price for your content can be challenging. That’s where our Instagram Rate Calculator comes in. <!--more--> This free, easy-to-use tool provides influencers with a personalized rate estimate, helping you set competitive and realistic pricing based on your platform, engagement rate, and follower count.
 
 ### Why You Need an Influencer Rate Calculator
 
