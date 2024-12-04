@@ -7,7 +7,6 @@ comments: false
 tags: intro
 keywords: "what is pitcherbox"
 excerpt_separator: <!--more-->
-sticky: true
 hidden: true
 ---
 
