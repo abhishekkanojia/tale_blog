@@ -4,7 +4,7 @@ title:  "How to collect feedback from my audience?"
 description: ""
 author: "Pitcherbox Team"
 comments: false
-image: '/assets/posts/start-listening-to-your-audience.jpg'
+image: '/assets/posts/how-to-collect-feedback.jpg'
 keywords: audience feedback, content growth, feedback tools, growth strategies.
 tags: growth-tips influencer-tips
 excerpt_separator: <!--more-->
